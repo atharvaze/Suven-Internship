@@ -1,0 +1,60 @@
+Q. In which decade was the American Institute of Electrical Engineers(AIEE)Founded?
+	1.1850s
+	2.1880s
+	3.1930s
+	4.1950s
+2
+Q. What is part of a database that holds one type of information?
+	1.Report
+	2.Field
+	3.Record
+	4.File
+2
+Q. 'OS' Computer abbreviation Usually Means?
+	1.order of Significance
+	2.Open Software
+	3.Operating System
+	4.Optical Sensor
+3
+Q. In Which Decade with the first transtlantic radio broadcast occur?
+	1.1850s
+	2.1860s
+	3.1870s
+	4.1900s
+4
+Q. '.MOV' extension refers usually to what kind of file?
+	1.image file
+	2.Animation/Movie File
+	3.Audio File
+	4.MS Office document
+2
+Q. In Which decade was the SPICE simulator introduced?
+	1.1950s
+	2.1960s
+	3.1970s
+	4.1980s
+3
+Q. Most modern TV's draw Power even if turned off. The Circuit the power is used in does what function?
+	1.Sound
+	2.Remote Control
+	3.Color balance
+	4.High Voltage
+2
+Q. Which is a type of Electrically-Erasble Programmable Read-only Memory?
+	1.Flash
+	2.Flange
+	3.Fury
+	4.FRAM
+1
+Q. The Purpose of choke in tube light is?
+	1.To decrease the current
+	2.To increase the current
+	3.To decrease the voltage momentarily
+	4.TO increase the voltage momentarily
+4
+Q. '.MPG' extension refers usually to what kind of file?
+	1.WordPerfect Document file
+	2.Ms Office document
+	3.Animation/Movie file
+	4.Image file
+3
